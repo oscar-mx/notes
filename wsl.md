@@ -23,5 +23,5 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 ## 3. Windows Terminal
 打开应用商店直接搜索Windows Terminal即可安装，需要18362或更高版本。
 打开以后直观上和PowerShell没有什么不同，看来需要自己美化啊！
-点击settings 设置defaultProfile值为wsl即可默认启动wsl子系统命令行。
+点击settings 设置defaultProfile值为wsl系统的值即可默认启动wslxi子系统命令行。
 [了解更多](https://github.com/microsoft/terminal/blob/master/doc/user-docs/index.md)
