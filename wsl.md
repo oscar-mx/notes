@@ -3,11 +3,14 @@
 
 ## 1.下载linux发行版
 微软官方提供了下载链接，下载你喜欢的发行版即可。
+
 [点击直达](https://docs.microsoft.com/zh-cn/windows/wsl/install-manual)
 
 ## 2.安装LxRunOffline
 LxRunOffline用于管理Windows Linux子系统（WSL）。
+
 [了解更多](https://github.com/DDoSolitary/LxRunOffline)
+
 Windows系统直接下载最新的releases版本安装即可，解压后将解压的文件安装路径加入到环境变量中，打开cmd输入LxRunOffline，若提示[ERROR] No action is specified.和命令帮助文档，则表示LxRunOffline安装成功。
 
 ## 3. 安装WSL
@@ -24,4 +27,5 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 打开应用商店直接搜索Windows Terminal即可安装，需要18362或更高版本。
 打开以后直观上和PowerShell没有什么不同，看来需要自己美化啊！
 点击settings 设置defaultProfile值为wsl系统的值即可默认启动wslxi子系统命令行。
+
 [了解更多](https://github.com/microsoft/terminal/blob/master/doc/user-docs/index.md)
