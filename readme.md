@@ -1,2 +1,2 @@
 # notes
-> 这里记录一些平时的笔记
+> https://oscar-mx.github.io/ 先不更新了，笔记暂时搬迁到这里。
