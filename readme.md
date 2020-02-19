@@ -2,3 +2,10 @@
 - https://oscar-mx.github.io/ 先不更新了，笔记暂时搬迁到这里。
 
 - 不定时更新，都是一些自己工作生活学习过程中的随笔记录。
+
+## 分类如下
+- [PHP](http://c.biancheng.net/golang/)
+- [Golang](http://c.biancheng.net/golang/)
+- [Python](http://c.biancheng.net/golang/)
+- [Redis](http://c.biancheng.net/golang/)
+- [瞎折腾](http://c.biancheng.net/golang/)
