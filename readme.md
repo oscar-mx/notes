@@ -4,8 +4,9 @@
 - 不定时更新，都是一些自己工作生活学习过程中的随笔记录。
 
 ## 分类如下
-- [PHP](http://c.biancheng.net/golang/)
-- [Golang](http://c.biancheng.net/golang/)
-- [Python](http://c.biancheng.net/golang/)
-- [Redis](http://c.biancheng.net/golang/)
-- [瞎折腾](http://c.biancheng.net/golang/)
+- [PHP](https://github.com/oscar-mx/notes/tree/master/PHP)
+- [Golang](https://github.com/oscar-mx/notes/tree/master/Golang)
+- [Python](https://github.com/oscar-mx/notes/tree/master/Python)
+- [Redis](https://github.com/oscar-mx/notes/tree/master/Redis)
+- [Git](https://github.com/oscar-mx/notes/tree/master/Git)
+- [瞎折腾](https://github.com/oscar-mx/notes/tree/master/瞎折腾)
