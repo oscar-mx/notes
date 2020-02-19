@@ -10,7 +10,7 @@ FFMpeg PHP，一个与AVconv / ffmpeg进行通信的面向对象的库
 点击[win/macOS下载链接](https://ffmpeg.zeranoe.com/builds/)，选择合适你的版本下载安装即可
 
 安装完成后将bin目录添加至path环境变量，命令行输入ffmpeg -version看到相关信息即为安装成功
-![安装](../image/ffmpeg安装.png)
+![安装](../Screenshot/ffmpeg安装.png)
 
 ## 2.PHP-FFMpeg
 在你的项目根目录下安装
