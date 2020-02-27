@@ -8,5 +8,6 @@
 - [Golang](https://github.com/oscar-mx/notes/tree/master/Golang)
 - [Python](https://github.com/oscar-mx/notes/tree/master/Python)
 - [Redis](https://github.com/oscar-mx/notes/tree/master/Redis)
+- [Mysql](https://github.com/oscar-mx/notes/tree/master/Mysql)
 - [Git](https://github.com/oscar-mx/notes/tree/master/Git)
 - [瞎折腾](https://github.com/oscar-mx/notes/tree/master/瞎折腾)
