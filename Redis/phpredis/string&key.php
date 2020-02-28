@@ -8,6 +8,12 @@
     //string字符串
     //set设置指定key的值，返回值布尔值；get获取key的值，成功返回key值，失败返回false
     $redis->set('name', 'xiaoming');
+    // 将调用SETEX方法
+    $redis->set('key', 'value', 10);
+    // 设置key值，如果key不存在，设置10s过期 ex秒数
+    $redis->set('key', 'value', array('nx', 'ex' => 10));
+    // 设置key值，如果key存在，设置1000ms过期 px毫秒数
+    $redis->set('key', 'value', array('xx', 'px' => 1000));
     $name = $redis->get('name');
 
     //setEx, pSetEx 为key赋值，并设置过期时间(setEx使用秒数，pSetEx使用毫秒)，返回值布尔值
