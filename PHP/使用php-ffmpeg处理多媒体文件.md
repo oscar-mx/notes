@@ -51,12 +51,8 @@ $frame->save('image.jpg');
 ```php
 $video->filters()->resize($dimension, $mode, $useStandards);
 ```
-### mp4转ts并切片输出m3u8
+### HLS切片
 ```php
-//先将视频转换成视频ts文件
-ffmpeg -y -i example.mp4 -vcodec copy -acodec copy -vbsf h264_mp4toannexb video3/output.ts
- 
-//将ts视频文件分割成视频流文件ts，并生成索引文件m3u8
-ffmpeg -i output.ts  -c copy -map 0 -f segment -segment_list index.m3u8 -segment_time 10 video-%03d.ts
+ffmpeg -i D:/runtime/test.mp4 -c:v libx264 -c:a aac -strict -2 -f hls D:/runtime/test.m3u8
 ```
 
