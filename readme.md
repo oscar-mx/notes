@@ -11,7 +11,3 @@
 - [Mysql](https://github.com/oscar-mx/notes/tree/master/Mysql)
 - [Git](https://github.com/oscar-mx/notes/tree/master/Git)
 - [瞎折腾](https://github.com/oscar-mx/notes/tree/master/瞎折腾)
-
-
-
-13213213
