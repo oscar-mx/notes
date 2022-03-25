@@ -12,3 +12,4 @@
 - [Mysql](https://github.com/oscar-mx/notes/tree/master/Mysql)
 - [Git](https://github.com/oscar-mx/notes/tree/master/Git)
 - [瞎折腾](https://github.com/oscar-mx/notes/tree/master/瞎折腾)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oscar-mx)](https://github.com/anuraghazra/github-readme-stats)
