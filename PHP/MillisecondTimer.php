@@ -1,7 +1,5 @@
 <?php
 
-namespace app\extend;
-
 use SplPriorityQueue;
 
 class MillisecondTimer
